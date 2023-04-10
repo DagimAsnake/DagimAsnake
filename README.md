@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 - 🌱 I am a self taught **Full Stack Developer**.
 - 🎯 I plan to make an impact in my community in the future.
 - 💯️ I am a passionately curious kind of person.
-- 💬 Ask me about **Data Structures, Problem Solving, Python, Backend**
-- 📫 Reach me by at wubezeleke@gmail.com
+- 💬 Ask me about **Data Structures, Problem Solving, Javascript, Python, Frontend, Backend**
+- 📫 Reach me by at dagimasnake1@gmail.com
 
 <h3> Lets Connect!</h3>
 <p align="left">
