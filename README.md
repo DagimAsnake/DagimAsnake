@@ -1,20 +1,3 @@
-### Hi there 👋
-
-<!--
-**DagimAsnake/DagimAsnake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> , I'm Dagim.
 
 > **<div align="center">Computer Engineer</div>** > <img src="https://komarev.com/ghpvc/?username=wubeZ&style=flat-square&color=blue" alt=""/>
@@ -32,7 +15,7 @@ Here are some ideas to get you started:
 
 <h3> Lets Connect!</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/dagim-asnake-088302185" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Wubshet Zeleke" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dagim-asnake-088302185" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Dagim Asnake" height="30" width="40" /></a>
 </p>
 <hr>  
   
