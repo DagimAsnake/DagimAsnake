@@ -6,7 +6,7 @@
 
 ### About me
 
-- 🌱 I am learning **Electrical and Computer Engineering** at Addis Ababa Science and Technology University.
+- 🌱 I graduated in **Electrical and Computer Engineering** from Addis Ababa Science and Technology University.
 - 🌱 I am a self taught **Full Stack Developer**.
 - 🎯 I plan to make an impact in my community in the future.
 - 💯️ I am a passionately curious kind of person.
@@ -42,6 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" title="MaterialUi" alt="MaterialUi"      width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="NextJs" alt="NextJs"    width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" title="WordPress" **alt="WordPress" width="40" height="40"/>
+          
 </div>
 <hr>
   
