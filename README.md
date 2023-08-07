@@ -11,7 +11,7 @@
 - 🎯 I plan to make an impact in my community in the future.
 - 💯️ I am a passionately curious kind of person.
 - 💬 Ask me about **Data Structures, Problem Solving, Javascript, Python, Frontend, Backend**
-- 📫 Reach me by at dagimasnake1@gmail.com
+- 📫 Reach me by at https://dagimasnake.netlify.app/
 
 <h3> Lets Connect!</h3>
 <p align="left">
