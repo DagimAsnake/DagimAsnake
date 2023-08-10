@@ -47,9 +47,9 @@
 </div>
 <hr>
   
-### :fire: My Stats :
-<div align="center" >
+<!-- ### :fire: My Stats : -->
+<!-- <div align="center" >
   <a  href="https://github.com/DagimAsnake">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=DagimAsnake&theme=blue-green" />
   </a>
-</div>
+</div> -->
